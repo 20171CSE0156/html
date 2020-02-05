@@ -1,0 +1,10 @@
+<html>
+<head>
+ <title>HTML frames</title>
+</head>
+<frameset rows="120%,200%,300%">
+<frame name="top" src="/home/6CSE3/Downloads/kane.jpg"/>
+<frame name="main" src="/home/6CSE3/Downloads/kane.jpg"/>
+<frame name="bottom" src="/home/6CSE3/Downloads/kane.jpg"/>
+</frameset>
+</html>
