@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>HTML iframes</title>
+</head>
+<body>
+<p>Documents..
+tag.any web link.
+</p>
+<marquee direction="right"> mrchandanDP
+</marquee>
+<h1 style="color:blue;">badboy</h1>
+<h1 style="text-allign:center;">boss</h1>
+<h1 style="background-color:rgb(255,99,71);"...yess...</h2>
+<iframe src="/home/6CSE3/Downloads/dp.jpg" width="666" height="300"> doesnot suppport
+</iframes>
+<p>Document content</p>
+<iframe src="demo_iframe.html
+name="iframe_a"></iframe>
+<p><a href="https://www.google.com"
+target="iframe_a">Load new web page</a></p>
+<body>
+</html>
+
